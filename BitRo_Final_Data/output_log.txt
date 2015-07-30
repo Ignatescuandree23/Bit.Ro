@@ -1,0 +1,41 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: ATI Radeon HD 3400 Series (ID=0x95c5)
+    Vendor:   ATI
+    VRAM:     506 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\BitRo_Fianl\Andrew Roll a Ball\BitRo_Final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\BitRo_Fianl\Andrew Roll a Ball\BitRo_Final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\BitRo_Fianl\Andrew Roll a Ball\BitRo_Final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\BitRo_Fianl\Andrew Roll a Ball\BitRo_Final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\BitRo_Fianl\Andrew Roll a Ball\BitRo_Final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\BitRo_Fianl\Andrew Roll a Ball\BitRo_Final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.306 seconds
+desktop: 1360x768 60Hz; virtual: 1360x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\BitRo_Fianl\Andrew Roll a Ball\BitRo_Final_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\BitRo_Fianl\Andrew Roll a Ball\BitRo_Final_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: c5c -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.567297 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 513.
+Total: 1.097489 ms (FindLiveObjects: 0.546733 ms CreateObjectMapping: 0.041690 ms MarkObjects: 0.455672 ms  DeleteObjects: 0.051564 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.417849 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1119.
+Total: 2.099894 ms (FindLiveObjects: 0.175174 ms CreateObjectMapping: 0.043153 ms MarkObjects: 0.505042 ms  DeleteObjects: 1.374330 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.308348 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 2008.
+Total: 1.168070 ms (FindLiveObjects: 0.279035 ms CreateObjectMapping: 0.073507 ms MarkObjects: 0.774934 ms  DeleteObjects: 0.038399 ms)
+

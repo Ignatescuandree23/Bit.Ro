@@ -1,0 +1,70 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: ATI Mobility Radeon HD 4250   (ID=0x9712)
+    Vendor:   ATI
+    VRAM:     252 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Final Game BitRo\b_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Final Game BitRo\b_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Final Game BitRo\b_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Final Game BitRo\b_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Final Game BitRo\b_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Final Game BitRo\b_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Final Game BitRo\b_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Final Game BitRo\b_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Final Game BitRo\b_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Final Game BitRo\b_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.101 seconds
+desktop: 1366x768 59Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Final Game BitRo\b_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Final Game BitRo\b_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 6f4 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.675123 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 187.
+Total: 0.457742 ms (FindLiveObjects: 0.041061 ms CreateObjectMapping: 0.022397 ms MarkObjects: 0.373753 ms  DeleteObjects: 0.017731 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.612656 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 474.
+Total: 0.433945 ms (FindLiveObjects: 0.056459 ms CreateObjectMapping: 0.025663 ms MarkObjects: 0.333158 ms  DeleteObjects: 0.017264 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.489880 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 191.
+Total: 0.894954 ms (FindLiveObjects: 0.065791 ms CreateObjectMapping: 0.044327 ms MarkObjects: 0.587926 ms  DeleteObjects: 0.194109 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.545931 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 859.
+Total: 0.520268 ms (FindLiveObjects: 0.097987 ms CreateObjectMapping: 0.041061 ms MarkObjects: 0.363021 ms  DeleteObjects: 0.017264 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.295713 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1311.
+Total: 1.375094 ms (FindLiveObjects: 0.286964 ms CreateObjectMapping: 0.109652 ms MarkObjects: 0.896354 ms  DeleteObjects: 0.079790 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.537474 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1314.
+Total: 0.726975 ms (FindLiveObjects: 0.177777 ms CreateObjectMapping: 0.042927 ms MarkObjects: 0.470341 ms  DeleteObjects: 0.034995 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.564071 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1314.
+Total: 0.661650 ms (FindLiveObjects: 0.157247 ms CreateObjectMapping: 0.041994 ms MarkObjects: 0.429746 ms  DeleteObjects: 0.031262 ms)
+
